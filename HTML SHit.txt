@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html> 
+   <title> Compactful.com </title> 
+   <center> <h1> Compactful.com </h1> </center> 
+<center> <text> Welcome to Compactful.com. Here you can find our Newest Video on Youtube, look at our catalouge of videos,
+and see updates on our channel! </text> </center> 
+   <body>
+  <center> <h1> LATEST VIDEO </h1> </center> 
+ <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/DMGblFIvaKQ?si=fstAZC5E08xuWkYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
+   </body>
+   
+   <body>
+   <center> <h1> About This Video! <h1 </center> 
+   </body>
+   <body>   
+   <center> <b> Legend of The Armless Horseman is the final Video in our 2024 October Trilogy! In this video
+   we see Colby and Tripp trying to find a way to exorcise The Armless Horseman before he does another attack,
+   however they may do it just too late... </center> </b>
+  </body> 
+  
+  <body>
+  <center> <h1> CAST OF THIS VIDEO! <center> <h1>
+  <body>
+  <font size="10" face="verd">
+ <text> Colby (me) </text> </font> 
+  </body>
+  <body>
+  <font size="2" face="verd">
+      <text> The Owner of Compactful. Colby (Me) Acts, edits, and Writes for the channel.
+    <body>
+<center> <img src="Screenshot_1.png" /> </center> 
+  </body> 
+  <body>
+  <font size="10" face="verd">
+  <text> Tripp </text>
+  </font>
+  </body>
+  <body>
+<center> <img src="Screenshot_2.png" /> </center> 
+  </body>
+  <body>
+  <font size="10" face="verd">
+  <text> Acedog3 </text>
+  </font>
+  </body> 
+  <body>
+<center> <img src="Screenshot_3.png" /> </center>
+  </body>
+ 
